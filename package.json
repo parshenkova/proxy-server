@@ -1,0 +1,11 @@
+{
+  "name": "proxy-server",
+  "version": "1.0.0",
+  "description": "Proxy-server is a project created for learning purposes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Elizaveta Parshenkova",
+  "license": "ISC"
+}
